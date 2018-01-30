@@ -1,0 +1,8 @@
+# .gitignore for unity  project
+Temp/
+Library/
+
+.DS_Store
+*.csproj
+*.sln
+*.userprefs
